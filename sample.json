@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Simantic",
+    "batch": "Fall 2026",
+    "slug": "simantic",
+    "yc_url": "https://www.ycombinator.com/companies/simantic",
+    "linkedin_url": "https://www.linkedin.com/company/simantic",
+    "status": "ok",
+    "error": ""
+  },
+  {
+    "name": "Edviro",
+    "batch": "Summer 2026",
+    "slug": "edviro",
+    "yc_url": "https://www.ycombinator.com/companies/edviro",
+    "linkedin_url": "https://www.linkedin.com/company/edviro",
+    "status": "ok",
+    "error": ""
+  },
+  {
+    "name": "Experiential Labs",
+    "batch": "Summer 2026",
+    "slug": "experiential-labs",
+    "yc_url": "https://www.ycombinator.com/companies/experiential-labs",
+    "linkedin_url": "",
+    "status": "ok",
+    "error": ""
+  }
+]
