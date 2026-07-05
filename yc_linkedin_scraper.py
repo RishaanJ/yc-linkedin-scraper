@@ -25,7 +25,7 @@ BATCHES = [
     "Fall 2025",
 ]
 
-DEFAULT_URL2 = (
+DEFAULT_URL = (
     "https://www.ycombinator.com/companies?"
     + "&".join(f"batch={quote(batch)}" for batch in BATCHES)
 )
